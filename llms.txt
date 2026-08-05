@@ -1,0 +1,22 @@
+# Artoid — maison d'édition
+
+> Artoid est une maison d'édition indépendante installée sur la Côte d'Azur, spécialisée dans les livres d'art et de design pour adultes et pour enfants. Deux collections : Archives Sélectives (ouvrages documentaires — photographies anonymes d'époque, objets de design méditerranéen, architectures du littoral ; tirages numérotés, jamais réimprimés à l'identique) et The Stories (albums illustrés, abécédaires et livres d'éveil, de 18 mois à 10 ans, réimprimés tant qu'ils vivent). S'y ajoutent quelques objets édités en petites séries.
+
+Faits essentiels :
+- Deux collections : Archives Sélectives (adultes, documentaire, tirage numéroté) et The Stories (jeunesse).
+- Fabrication : impression européenne, papiers issus de forêts gérées durablement, reliures cousues ou suisses, colophon indiquant imprimeur, papier, caractères et tirage.
+- Prix de 16 € (livre d'éveil) à 54 € (monographie de design) ; objets de 12 à 45 €.
+- Expédition suivie sous 48 heures depuis la Côte d'Azur ; rétractation de quatorze jours.
+- Conditions dédiées pour les libraires, musées et bibliothèques.
+- Contact : contact@artoid.fr
+
+## Pages
+- [Accueil et catalogue](https://www.artoid.fr/)
+- [Archives Sélectives](https://www.artoid.fr/archives-selectives.html)
+- [The Stories](https://www.artoid.fr/the-stories.html)
+- [La maison](https://www.artoid.fr/la-maison.html)
+- [Le journal](https://www.artoid.fr/journal.html)
+- [Papiers, encres et reliures](https://www.artoid.fr/journal-fabriquer-livre-art.html)
+- [Dater et documenter des photographies anonymes](https://www.artoid.fr/journal-dater-photographies-anciennes.html)
+- [Quel livre à quel âge](https://www.artoid.fr/journal-choisir-livre-enfant.html)
+- [Livraison & retours](https://www.artoid.fr/livraison-retours.html)
