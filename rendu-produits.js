@@ -35,21 +35,21 @@
     var N = "#0A1A47";
     if (p.categorie === "Objet") {
       return '<svg viewBox="0 0 200 200" role="img" aria-label="' + esc(p.titre) + '">' +
-        '<rect width="200" height="200" fill="#FBF6EE"/>' +
-        '<rect x="56" y="46" width="88" height="112" fill="#F3E9D6" stroke="' + N + '" stroke-width="3"/>' +
+        '<rect width="200" height="200" fill="#F5F5EF"/>' +
+        '<rect x="56" y="46" width="88" height="112" fill="#ECEDE2" stroke="' + N + '" stroke-width="3"/>' +
         '<path d="M56 90h88M56 122h60" stroke="' + N + '" stroke-width="2.4"/></svg>';
     }
     if (p.collection === "The Stories") {
       return '<svg viewBox="0 0 300 400" role="img" aria-label="' + esc(p.titre) + '">' +
-        '<rect width="300" height="400" fill="#F3E4D2"/><rect width="26" height="400" fill="' + N + '"/>' +
+        '<rect width="300" height="400" fill="#DFE0D0"/><rect width="26" height="400" fill="' + N + '"/>' +
         '<circle cx="150" cy="152" r="56" fill="' + N + '" opacity=".88"/>' +
-        '<path d="M96 250C110 208 190 208 204 250Z" fill="#C8532F" opacity=".85"/>' +
-        '<circle cx="228" cy="98" r="18" fill="#E0A83C" opacity=".9"/>' +
+        '<path d="M96 250C110 208 190 208 204 250Z" fill="#5D5B3C" opacity=".85"/>' +
+        '<circle cx="228" cy="98" r="18" fill="#A8A874" opacity=".9"/>' +
         '<path d="M66 312h168" stroke="' + N + '" stroke-width="2.6"/></svg>';
     }
     return '<svg viewBox="0 0 300 400" role="img" aria-label="' + esc(p.titre) + '">' +
-      '<rect width="300" height="400" fill="#FDEFDC"/><rect width="26" height="400" fill="' + N + '"/>' +
-      '<rect x="66" y="76" width="180" height="140" fill="#EADFC7"/>' +
+      '<rect width="300" height="400" fill="#E9E9DC"/><rect width="26" height="400" fill="' + N + '"/>' +
+      '<rect x="66" y="76" width="180" height="140" fill="#D6D8C4"/>' +
       '<path d="M66 176Q116 140 156 176T246 168" stroke="' + N + '" stroke-width="3" fill="none"/>' +
       '<circle cx="206" cy="116" r="20" fill="none" stroke="' + N + '" stroke-width="3"/>' +
       '<path d="M66 274h180M66 296h130" stroke="' + N + '" stroke-width="2.4"/></svg>';
