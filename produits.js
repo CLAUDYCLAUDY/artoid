@@ -1,8 +1,4 @@
-/* ═══════════════════════════════════════════════════════════════════════
-   ARTOID — CATALOGUE
-   Fichier écrit et relu par l'éditeur (editeur.html).
-   Modifiable à la main, mais ce n'est pas nécessaire.
-   ═══════════════════════════════════════════════════════════════════════ */
+/* ARTOID — catalogue. Écrit par l'éditeur. */
 
 window.PRODUITS = [
 
@@ -22,13 +18,7 @@ window.PRODUITS = [
   isbn: "",
   accroche: "Un été entier, photographié par des inconnus.",
   description: "Six cents diapositives chinées dans un fonds familial, dont cent vingt ont été retenues : des baigneurs, des terrasses, des voitures garées face à la mer. L'ouvrage restitue un été complet sur le littoral, du premier jour de juillet au dernier d'août, avec pour chaque image une notice de datation et de localisation. Ce que ces anonymes photographiaient sans y penser est devenu, soixante ans plus tard, un document.",
-  points: [
-    "120 photographies d'époque, notices documentées",
-    "Papier couché mat, quadrichromie",
-    "Reliure cousue, dos toilé",
-    "Tirage numéroté à 500 exemplaires",
-    "Colophon détaillé : imprimeur, papier, caractères"
-  ]
+  points: ["120 photographies d'époque, notices documentées", "Papier couché mat, quadrichromie", "Reliure cousue, dos toilé", "Tirage numéroté à 500 exemplaires", "Colophon détaillé : imprimeur, papier, caractères"]
 },
 
 {
@@ -47,13 +37,7 @@ window.PRODUITS = [
   isbn: "",
   accroche: "Quatre-vingt-dix objets, trente années de design méditerranéen.",
   description: "Des années 1950 aux années 1980, une génération de dessinateurs a inventé sur le pourtour méditerranéen un vocabulaire de formes que l'on reconnaît sans savoir le nommer : chaises de terrasse, luminaires, vaisselle, mobilier de jardin. Quatre-vingt-dix pièces sont ici photographiées sur fond neutre et documentées, du prototype à la série. La reliure suisse permet au livre de s'ouvrir parfaitement à plat.",
-  points: [
-    "90 objets photographiés et documentés",
-    "Impression deux tons, profondeur des noirs",
-    "Reliure suisse, ouverture à plat",
-    "Index des dessinateurs et des éditeurs",
-    "Tirage numéroté à 700 exemplaires"
-  ]
+  points: ["90 objets photographiés et documentés", "Impression deux tons, profondeur des noirs", "Reliure suisse, ouverture à plat", "Index des dessinateurs et des éditeurs", "Tirage numéroté à 700 exemplaires"]
 },
 
 {
@@ -72,13 +56,7 @@ window.PRODUITS = [
   isbn: "",
   accroche: "L'architecture minuscule du littoral, photographiée six étés durant.",
   description: "Ni villas ni maisons, les cabanons du littoral méditerranéen forment une architecture sans architecte, faite de bric et d'invention. Photographiés pendant six étés, de la Ciotat à Menton, quatre-vingts d'entre eux composent un inventaire de formes libres. La jaquette se déplie en une frise de façades.",
-  points: [
-    "80 cabanons inventoriés et situés",
-    "Six étés de campagne photographique",
-    "Jaquette dépliante en frise",
-    "Papier mat, reliure cousue",
-    "Tirage numéroté à 400 exemplaires"
-  ]
+  points: ["80 cabanons inventoriés et situés", "Six étés de campagne photographique", "Jaquette dépliante en frise", "Papier mat, reliure cousue", "Tirage numéroté à 400 exemplaires"]
 },
 
 {
@@ -97,13 +75,7 @@ window.PRODUITS = [
   isbn: "",
   accroche: "Un fantôme qui n'effraie personne, et qui s'en accommode très bien.",
   description: "Il devrait faire peur, c'est son métier. Mais ce fantôme-là préfère le skateboard, les gâteaux et les longues discussions avec le chat de la maison. Une histoire courte à lire à voix haute, illustrée à la gouache, où l'on apprend qu'on n'est pas obligé d'être ce qu'on attend de nous.",
-  points: [
-    "Texte court, pensé pour la lecture à voix haute",
-    "Illustrations originales à la gouache",
-    "Pages cartonnées, cahiers cousus",
-    "Dès 4 ans",
-    "Réimprimé tant qu'il vit"
-  ]
+  points: ["Texte court, pensé pour la lecture à voix haute", "Illustrations originales à la gouache", "Pages cartonnées, cahiers cousus", "Dès 4 ans", "Réimprimé tant qu'il vit"]
 },
 
 {
@@ -122,13 +94,7 @@ window.PRODUITS = [
   isbn: "",
   accroche: "De A comme Atelier à Z comme Zénith, vingt-six objets à regarder longtemps.",
   description: "Un abécédaire qui n'apprend pas seulement les lettres : chaque page présente un objet dessiné avec soin, choisi pour sa forme autant que pour son initiale. L'enfant nomme, l'adulte redécouvre. Les vingt-six planches se lisent dans l'ordre ou au hasard.",
-  points: [
-    "26 objets dessinés, une lettre par page",
-    "Couverture cartonnée, papier opaque",
-    "Dès 3 ans, lecture partagée",
-    "Grand format carré",
-    "Réimprimé tant qu'il vit"
-  ]
+  points: ["26 objets dessinés, une lettre par page", "Couverture cartonnée, papier opaque", "Dès 3 ans, lecture partagée", "Grand format carré", "Réimprimé tant qu'il vit"]
 },
 
 {
@@ -147,13 +113,7 @@ window.PRODUITS = [
   isbn: "",
   accroche: "Un rond, un carré, un triangle : les premières formes, en couleurs franches.",
   description: "Le premier livre, celui qu'on manipule autant qu'on regarde. Une forme par page, une couleur franche, aucun texte superflu : l'enfant pointe, nomme, recommence. Pages épaisses, coins arrondis, vernis qui résiste aux doigts collants.",
-  points: [
-    "Une forme et une couleur par page",
-    "Pages cartonnées épaisses, coins arrondis",
-    "Vernis résistant",
-    "Dès 18 mois",
-    "Format tenu par de petites mains"
-  ]
+  points: ["Une forme et une couleur par page", "Pages cartonnées épaisses, coins arrondis", "Vernis résistant", "Dès 18 mois", "Format tenu par de petites mains"]
 },
 
 {
